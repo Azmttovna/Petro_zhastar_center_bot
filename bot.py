@@ -11,7 +11,7 @@ from dotenv import load_dotenv
 # Загружаем переменные окружения из файла .env (для локальной разработки)
 load_dotenv()
 
-TOKEN = os.getenv("BOT_TOKEN")
+TOKEN = os.getenv("8911010673:AAGP1WGocBaFyX3IIfIP2EqfctXZdYxfj18")
 
 # Инициализация диспетчера
 dp = Dispatcher()
